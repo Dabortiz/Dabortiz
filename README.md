@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b> Azure / Cloud CyberSecurity Project </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a SOC / HoneyNet in Azure](https://github.com/Dabortiz/CyberSecurity)
 
 
 <h2> 🤳 Connect with me:</h2>
