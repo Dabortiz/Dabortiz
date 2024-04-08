@@ -4,6 +4,9 @@
 
 - <b> Azure / Cloud CyberSecurity Project </b>
   - [Creating a SOC / HoneyNet in Azure](https://github.com/Dabortiz/CyberSecurity)
+ 
+  - [Creating an Active Directory on Oracle](https://github.com/Dabortiz/Active-Directory.git)
+
 
 
 <h2> 🤳 Connect with me:</h2>
