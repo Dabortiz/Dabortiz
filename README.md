@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/diego-ortiz-530002300
+[linkedin]: https://www.linkedin.com/in/diego-ortiz-530002300/
 
 
 
