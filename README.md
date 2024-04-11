@@ -6,6 +6,8 @@
   - [Creating a SOC / HoneyNet in Azure](https://github.com/Dabortiz/CyberSecurity)
  
   - [Creating an Active Directory on Oracle](https://github.com/Dabortiz/Active-Directory.git)
+ 
+  - [Creating a Vulnerability test scan envoirneent](https://github.com/Dabortiz/Vulnerability-Management)
 
 
 
