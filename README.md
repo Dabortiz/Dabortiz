@@ -7,7 +7,7 @@
  
   - [Creating an Active Directory on Oracle](https://github.com/Dabortiz/Active-Directory.git)
  
-  - [Creating a Vulnerability test scan envoirneent](https://github.com/Dabortiz/Vulnerability-Management)
+  - [Creating a Vulnerability test scan environement](https://github.com/Dabortiz/Vulnerability-Management)
 
 
 
