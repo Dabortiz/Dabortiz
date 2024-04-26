@@ -3,11 +3,11 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b> Azure / Cloud CyberSecurity Project </b>
-  - [Creating a SOC / HoneyNet in Azure](https://github.com/Dabortiz/CyberSecurity)
+  - [Creating a SOC / HoneyNet Environment in Microsoft Azure](https://github.com/Dabortiz/CyberSecurity)
  
-  - [Creating an Active Directory on Oracle](https://github.com/Dabortiz/Active-Directory.git)
+  - [Creating an Active Directory on Oracle VirtualBox](https://github.com/Dabortiz/Active-Directory.git)
  
-  - [Creating a Vulnerability test scan environement](https://github.com/Dabortiz/Vulnerability-Management)
+  - [Creating a Vulnerability test scan environment in VMware](https://github.com/Dabortiz/Vulnerability-Management)
 
 
 
@@ -22,7 +22,11 @@
 [linkedin]: https://www.linkedin.com/in/diego-ortiz-530002300/
 
 
-
+How to reach me:   email- dabortiz@yahoo.com
+                   linkedin- www.linkedin.com/in/dabortiz
+                    
+ 
+                        
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
