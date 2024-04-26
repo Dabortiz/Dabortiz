@@ -22,7 +22,7 @@
 [linkedin]: https://www.linkedin.com/in/diego-ortiz-530002300/
 
 
-How to reach me:   email- dabortiz@yahoo.com
+<h25> How to reach me:   email- dabortiz@yahoo.com
                    linkedin- www.linkedin.com/in/dabortiz
                     
  
